@@ -1,6 +1,6 @@
 FROM node:alpine
 
-LABEL maintainer="Mathieu BRUNOT <mathieu.brunot at monogramm dot io>"
+LABEL maintainer="Cerebro Research Lab <bots.cerebro@gmail.com>"
 
 # Taiga back and events properties
 ENV TAIGA_VERSION=master \
